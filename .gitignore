@@ -1,0 +1,13 @@
+# Ignore IDE settings
+.idea/
+.venv/
+__pycache__/
+
+# Ignore Jupyter temporary files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Ignore compiled files and logs
+*.pyc
+*.log
+*.db
