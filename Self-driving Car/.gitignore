@@ -1,0 +1,8 @@
+
+.idea/
+.venv/
+__pycache__/
+
+beta_simulator_windows/
+dataset/
+term1-simulator-windows.zip
